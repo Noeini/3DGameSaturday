@@ -25,6 +25,8 @@ public class LevelGenerator : MonoBehaviour
             {
                 Vector3 position = new Vector3(x, 0, z) * offset;
                 Instantiate(colorMapping.prefab, position, Quaternion.identity);
+                GameObject prefab = Instantiate(colorMapping.prefab, position, Quaternion.identity, transform);
+
             }
         }
     }

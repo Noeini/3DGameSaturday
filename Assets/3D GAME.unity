@@ -152,15 +152,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ad5c54bac277a040b3d18c78c441797, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  map: {fileID: 2800000, guid: 534dc2e8222d758439bdc964e0b9db18, type: 3}
+  map: {fileID: 2800000, guid: 8c06dac30554ac243b0f4273ce6bca43, type: 3}
   colorMappings:
-  - color: {r: 0, g: 0, b: 0, a: 0}
+  - color: {r: 0, g: 0, b: 0, a: 1}
     prefab: {fileID: 6653826262482000315, guid: 41f375ad24253354eaebbf661b6d0edf, type: 3}
-  - color: {r: 1, g: 1, b: 1, a: 0}
+  - color: {r: 1, g: 1, b: 1, a: 1}
     prefab: {fileID: 3708519687461097298, guid: 99a5cc68ee015344184c46e9effaa095, type: 3}
-  - color: {r: 0.99607843, g: 0, b: 0, a: 0}
+  - color: {r: 0.99607843, g: 0, b: 0, a: 1}
     prefab: {fileID: 398721904552878809, guid: ba75e98ceca0380448ff5ac652dcd3b2, type: 3}
-  - color: {r: 0.14117648, g: 0.99607843, b: 0, a: 0}
+  - color: {r: 0.14117648, g: 0.99607843, b: 0, a: 1}
     prefab: {fileID: 3542235046442315809, guid: 493d4b2db07ab364582112595709ec9f, type: 3}
   offset: 5
   material01: {fileID: 2100000, guid: 033c541e0969e6a4ab3fbbba9a87fd85, type: 2}
